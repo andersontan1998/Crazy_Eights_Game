@@ -8,7 +8,7 @@ Implemented by **Anderson Tan**
 
 The implmentation of this game is not ran on a graphical user interface. 
 
-A standard 52-card pack is made up of 13 ranks in each of the four French suits: clubs (♣), diamonds (♦), hearts (♥) and spades (♠).
+A standard 52-card pack is made up of 13 ranks in each of the four French suits: Clubs (♣), Diamonds (♦), Hearts (♥) and Spades (♠).
 
 In this case, the suit followed by a rank represents the card. For instance, HA represents the Ace of Hearts and D2 represents the Two of Diamonds, etc...
 
