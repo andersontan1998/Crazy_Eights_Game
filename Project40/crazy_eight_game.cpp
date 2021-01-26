@@ -75,6 +75,7 @@ int main()
 			printSpaceLine();
 			cout << "Which one to play?" << endl;
 			cin >> playerChoice;
+			cout << endl;
 			asciiPlayerChoice = int(playerChoice);
 
 			//if you choose ? to cheat since ascii of ? is 63 then this will go through
